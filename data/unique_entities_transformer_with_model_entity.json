@@ -1,0 +1,32 @@
+[
+    {
+        "entity":"President Joe Biden",
+        "model":"gemma2",
+        "type":"PERSON"
+    },
+    {
+        "entity":"Supreme Court",
+        "model":"llama3.1",
+        "type":"Organization"
+    },
+    {
+        "entity":"South Carolina district",
+        "model":"phi3.5",
+        "type":"Geopolitical Entity"
+    },
+    {
+        "entity":"President",
+        "model":"phi3.5",
+        "type":"Title"
+    },
+    {
+        "entity":"racial discrimination",
+        "model":"phi3.5",
+        "type":"Issue"
+    },
+    {
+        "entity":"reddistricting of the South Carolina district",
+        "model":"gemma2",
+        "type":"EVENT"
+    }
+]

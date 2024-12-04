@@ -1,0 +1,61 @@
+[
+    {
+        "model": "llama3.1",
+        "response": [
+            {
+                "entity": "Joe Biden",
+                "type": "Person"
+            },
+            {
+                "entity": "Supreme Court",
+                "type": "Organization"
+            },
+            {
+                "entity": "South Carolina",
+                "type": "Location/Place"
+            }
+        ]
+    },
+    {
+        "model": "phi3.5",
+        "response": [
+            {
+                "entity": "Joe Biden",
+                "type": "Person"
+            },
+            {
+                "entity": "President",
+                "type": "Title"
+            },
+            {
+                "entity": "South Carolina district",
+                "type": "Geopolitical Entity"
+            },
+            {
+                "entity": "racial discrimination",
+                "type": "Issue"
+            }
+        ]
+    },
+    {
+        "model": "gemma2",
+        "response": [
+            {
+                "entity": "President Joe Biden",
+                "type": "PERSON"
+            },
+            {
+                "entity": "Supreme Court",
+                "type": "ORGANIZATION"
+            },
+            {
+                "entity": "reddistricting of the South Carolina district",
+                "type": "EVENT"
+            },
+            {
+                "entity": "South Carolina",
+                "type": "GPE"
+            }
+        ]
+    }
+]
