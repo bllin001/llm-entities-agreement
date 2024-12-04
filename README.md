@@ -118,7 +118,7 @@ The project includes a heatmap visualization showing cosine similarity scores be
 
 The following heatmap visualizes the cosine similarity between entities extracted by different LLMs. This helps in understanding the degree of agreement between the models and refining the thresholds for unifying entities.
 
-![Cosine Similarity Heatmap](data/image/cosine_similarity_heatmap_clustered_with_threshold.png)
+![Cosine Similarity Heatmap](image/cosine_similarity_heatmap_clustered_with_threshold.png)
 
 
 ---
